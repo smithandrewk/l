@@ -6,6 +6,6 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Yo Momma!
+I absorb as much of the information around me as seems possible at each moment, and I orient my next step by distilling that information into knowledge.
 
-![avatar.png](/static/images/avatar.png)
+![avatar.png](/l/images/avatar.png)
