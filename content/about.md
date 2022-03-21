@@ -8,4 +8,4 @@ author = "Hugo Authors"
 
 Yo Momma!
 
-![avatar.png](/images/avatar.png)
+![avatar.png](/static/images/avatar.png)
