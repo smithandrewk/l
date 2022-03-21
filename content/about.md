@@ -6,6 +6,6 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-I absorb as much of the information around me as seems possible at each moment, and I orient my next step by distilling that information into knowledge.
+My middle name is Kenneth. I drink coffee every morning. I am a deep thinker. I am trying to be a better person every time the sun comes up. I live in Columbia, SC.
 
-![avatar.png](/l/images/avatar.png)
+![avatar.png](/images/me1.JPG)
