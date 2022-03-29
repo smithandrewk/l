@@ -9,3 +9,4 @@ author = "Hugo Authors"
 My middle name is Kenneth. I drink coffee every morning. I am a deep thinker. I am trying to be a better person every time the sun comes up. I live in Columbia, SC.
 
 ![avatar.png](/images/me1.JPG)
+{{< audio src="/audio/audio.mp3" class="something" >}}
