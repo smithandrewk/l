@@ -160,3 +160,13 @@ url = "about/"
 name = "Blog"
 weight = 2
 url = "posts/"
+
+[[languages.en.menu.main]]
+name = "Dev"
+weight = 2
+url = "dev/"
+
+[[languages.en.menu.main]]
+name = "Gallery"
+weight = 2
+url = "gallery/"
