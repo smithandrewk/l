@@ -9,10 +9,16 @@ tags = [
 
 math = true
 +++
+
 In linear algebra, the singular value decomposition (SVD) is a factorization of a real or complex matrix. Let \\(M \in \R^{2\times 2} \\). There exists \\(U,S,V\\) such that
-$$\displaystyle M = U\Sigma V^T.$$
 
 In simple terms, the SVD breaks a matrix down into it's fundamental components. Often, a matrix is easier to understand if we can decompose it into fundamental components. 
+
+$$\displaystyle M = U\Sigma V^T.$$
+
+_Shown here is the transformation diagram of a singular value decomposition. By the end of the article, you will understand what it means._
+
+![rotation](/images/svd/6_svd.svg)
 
 {{< notice warning >}} We are not going to describe any algorithms to determine the SVD. It would be a good exercise for you to do this for at least one example. You may find the algorithm [here](https://en.wikipedia.org/wiki/Singular_value_decomposition#Calculating_the_SVD:~:text=Calculating%20the%20SVD%5Bedit%5D). {{< /notice >}}
 
