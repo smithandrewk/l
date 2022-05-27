@@ -167,6 +167,6 @@ weight = 2
 url = "dev/"
 
 [[languages.en.menu.main]]
-name = "Gallery"
+name = "SVD"
 weight = 2
-url = "gallery/"
+url = "svd/"
