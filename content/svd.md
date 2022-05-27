@@ -2,7 +2,7 @@
 author = "Andrew Smith"
 title = "What is the Singular Value Decomposition?"
 date = "2022-05-12"
-description = "Tutorial for using conda"
+description = "Introduction to the meaning of the SVD in terms of linear transformations."
 tags = [
     "tutorial",
 ]
