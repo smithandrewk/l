@@ -9,5 +9,5 @@ tags = [
 +++
 
 
-![avatar.png](/images/graeme-andrew-funny.comp.jpg)
-![avatar.png](/images/graeme-andrew-piano.comp.jpg)
+![avatar.png](/images/graeme-and-court/graeme-andrew-funny.comp.jpg)
+![avatar.png](/images/graeme-and-court/graeme-andrew-piano.comp.jpg)
