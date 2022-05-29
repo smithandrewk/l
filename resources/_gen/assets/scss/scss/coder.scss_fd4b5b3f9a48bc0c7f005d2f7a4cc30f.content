@@ -3314,7 +3314,8 @@ figure {
       color: #212121; }
   .content figure {
     margin: 0;
-    padding: 0; }
+    padding: 0;
+    padding-bottom: 2vh; }
   .content figcaption p {
     text-align: center;
     font-style: italic;

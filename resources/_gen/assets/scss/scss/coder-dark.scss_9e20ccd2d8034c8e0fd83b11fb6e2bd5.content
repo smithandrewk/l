@@ -8,21 +8,21 @@ body.colorscheme-dark {
   body.colorscheme-dark h3,
   body.colorscheme-dark h4,
   body.colorscheme-dark h5,
-  body.colorscheme-dark h6 {
+  body.colorscheme-dark h6, body.colorscheme-dark th, body.colorscheme-dark td {
     color: #dadada; }
     body.colorscheme-dark h1:hover .heading-link,
     body.colorscheme-dark h2:hover .heading-link,
     body.colorscheme-dark h3:hover .heading-link,
     body.colorscheme-dark h4:hover .heading-link,
     body.colorscheme-dark h5:hover .heading-link,
-    body.colorscheme-dark h6:hover .heading-link {
+    body.colorscheme-dark h6:hover .heading-link, body.colorscheme-dark th:hover .heading-link, body.colorscheme-dark td:hover .heading-link {
       visibility: visible; }
     body.colorscheme-dark h1 .heading-link,
     body.colorscheme-dark h2 .heading-link,
     body.colorscheme-dark h3 .heading-link,
     body.colorscheme-dark h4 .heading-link,
     body.colorscheme-dark h5 .heading-link,
-    body.colorscheme-dark h6 .heading-link {
+    body.colorscheme-dark h6 .heading-link, body.colorscheme-dark th .heading-link, body.colorscheme-dark td .heading-link {
       color: #42a5f5;
       font-weight: inherit;
       text-decoration: none;
@@ -33,7 +33,7 @@ body.colorscheme-dark {
     body.colorscheme-dark h3 .title-link,
     body.colorscheme-dark h4 .title-link,
     body.colorscheme-dark h5 .title-link,
-    body.colorscheme-dark h6 .title-link {
+    body.colorscheme-dark h6 .title-link, body.colorscheme-dark th .title-link, body.colorscheme-dark td .title-link {
       color: inherit;
       font-weight: inherit;
       text-decoration: none; }
@@ -77,21 +77,21 @@ body.colorscheme-dark {
     body.colorscheme-auto h3,
     body.colorscheme-auto h4,
     body.colorscheme-auto h5,
-    body.colorscheme-auto h6 {
+    body.colorscheme-auto h6, body.colorscheme-auto th, body.colorscheme-auto td {
       color: #dadada; }
       body.colorscheme-auto h1:hover .heading-link,
       body.colorscheme-auto h2:hover .heading-link,
       body.colorscheme-auto h3:hover .heading-link,
       body.colorscheme-auto h4:hover .heading-link,
       body.colorscheme-auto h5:hover .heading-link,
-      body.colorscheme-auto h6:hover .heading-link {
+      body.colorscheme-auto h6:hover .heading-link, body.colorscheme-auto th:hover .heading-link, body.colorscheme-auto td:hover .heading-link {
         visibility: visible; }
       body.colorscheme-auto h1 .heading-link,
       body.colorscheme-auto h2 .heading-link,
       body.colorscheme-auto h3 .heading-link,
       body.colorscheme-auto h4 .heading-link,
       body.colorscheme-auto h5 .heading-link,
-      body.colorscheme-auto h6 .heading-link {
+      body.colorscheme-auto h6 .heading-link, body.colorscheme-auto th .heading-link, body.colorscheme-auto td .heading-link {
         color: #42a5f5;
         font-weight: inherit;
         text-decoration: none;
@@ -102,7 +102,7 @@ body.colorscheme-dark {
       body.colorscheme-auto h3 .title-link,
       body.colorscheme-auto h4 .title-link,
       body.colorscheme-auto h5 .title-link,
-      body.colorscheme-auto h6 .title-link {
+      body.colorscheme-auto h6 .title-link, body.colorscheme-auto th .title-link, body.colorscheme-auto td .title-link {
         color: inherit;
         font-weight: inherit;
         text-decoration: none; }

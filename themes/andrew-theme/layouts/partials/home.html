@@ -11,6 +11,7 @@
     {{ else }}
     <h2>{{ .Site.Params.info }}</h2>
     {{ end }}
+    <i>{{.Site.Params.subinfo}}</i>
     {{ with .Site.Params.social }}
     <ul>
       {{ range sort . "weight" }}

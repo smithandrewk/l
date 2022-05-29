@@ -13,8 +13,9 @@ enableEmoji = true
 author = "Andrew Smith."
 description = "Andrew Smith's Personal Website"
 keywords = "blog,developer,personal"
-info = ["Thinker", "Person"]
-avatarURL = "images/avatar.png"
+info = ["Thinker"]
+subinfo = "Feel free to look around. I keep a lot of myself on here."
+avatarURL = "images/avatar.jpg"
 dateFormat = "January 2, 2006"
 since = 2022
 
@@ -110,17 +111,6 @@ icon = "fa fa-2x fa-film"
 weight = 4
 url = "https://docs.google.com/spreadsheets/d/1MBSWNcA-45YvsjmEJy67bDzxZxWGAHodHiipNlV3RcE/edit?usp=sharing"
 
-[[params.social]]
-name = "VSCO"
-icon = "fa fa-2x fa-image"
-weight = 4
-url = "https://vsco.co/andrewsmitty/gallery"
-
-# [[params.social]]
-# name = "Medium"
-# icon = "fa fa-2x fa-medium"
-# weight = 5
-# url = "https://medium.com/@johndoe"
 
 [languages.en]
 languageName = ":uk:"
@@ -149,3 +139,8 @@ url = "svd/"
 name = "Gallery"
 weight = 2
 url = "gallery/"
+
+[[languages.en.menu.main]]
+name = "Movies"
+weight = 3
+url = "movies/"
