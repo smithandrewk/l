@@ -136,6 +136,11 @@ weight = 2
 url = "svd/"
 
 [[languages.en.menu.main]]
+name = "Monty Hall"
+weight = 2
+url = "monty-hall/"
+
+[[languages.en.menu.main]]
 name = "Gallery"
 weight = 2
 url = "gallery/"
