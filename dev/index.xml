@@ -4,4 +4,4 @@ Warning Writing in progress.</description></item><item><title>What the f*** is c
 Install conda.
 Don&amp;rsquo;t install anaconda unless you are also a bitch. Install miniconda. Pick Linux &amp;gt; Miniconda3 Linux 64-bit unless, like I said, you are a little baby. Say yes to conda init.
 Fix default things that conda does
-Close your terminal and open another, or source ~.bashrc or wherever you have bashrc.</description></item></channel></rss>
+Close your terminal and open another, or source ~.bashrc or wherever you have bashrc. Prevent conda from activating base environment by default conda config --set auto_activate_base false Checkout base packages conda list If you had installed anaconda, you&amp;rsquo;d have 6 million base packages.</description></item></channel></rss>
