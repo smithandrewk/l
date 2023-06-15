@@ -7,10 +7,9 @@ tags = [
     "tutorial",
 ]
 +++
-*Conda is a ~~bitch~~. That's what it is. Nonetheless, we can make it do things you want.*
 1. Install conda.
 
-    Don't install anaconda unless *you* are also a ~~bitch~~. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html). Pick Linux > [Miniconda3 Linux 64-bit](https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh) unless, like I said, you are a little baby. Say yes to conda init.
+    Install [miniconda](https://docs.conda.io/en/latest/miniconda.html). Pick Linux > [Miniconda3 Linux 64-bit](https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh) unless you are a little baby. Say yes to conda init.
     
 2. Fix default things that conda does
    1. Close your terminal and open another, or source ~.bashrc or wherever you have bashrc.

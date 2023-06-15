@@ -79,7 +79,7 @@ url = "https://github.com/smithandrewk"
 name = "Email"
 icon = "fa fa-2x fa-envelope"
 weight = 1
-url = "mailto:andrewsmith1025@gmail.com"
+url = "mailto:andrewsmith@sc.edu"
 
 [[params.social]]
 name = "Instagram"
@@ -105,13 +105,6 @@ icon = "fa fa-2x fa-linkedin"
 weight = 4
 url = "https://www.linkedin.com/in/smithandrewkenneth/"
 
-[[params.social]]
-name = "Favorite movies"
-icon = "fa fa-2x fa-film"
-weight = 4
-url = "https://docs.google.com/spreadsheets/d/1MBSWNcA-45YvsjmEJy67bDzxZxWGAHodHiipNlV3RcE/edit?usp=sharing"
-
-
 [languages.en]
 languageName = ":uk:"
 
@@ -131,16 +124,6 @@ weight = 2
 url = "dev/"
 
 [[languages.en.menu.main]]
-name = "SVD"
-weight = 2
-url = "svd/"
-
-[[languages.en.menu.main]]
-name = "Monty Hall"
-weight = 2
-url = "monty-hall/"
-
-[[languages.en.menu.main]]
 name = "Gallery"
 weight = 2
 url = "gallery/"
@@ -149,3 +132,8 @@ url = "gallery/"
 name = "Movies"
 weight = 3
 url = "movies/"
+
+[[languages.en.menu.main]]
+name = "Deep Learning Papers"
+weight = 3
+url = "deeplearningpapers/"
